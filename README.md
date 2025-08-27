@@ -26,3 +26,8 @@
 
 - pk 속성
 - 일반 속성
+
+### 3. 테이블 구조를 만들고 가능하면 ERD 그린후 ChatGPT 로 작성후 살펴본다.
+
+- https://www.erdcloud.com/
+- https://app.diagrams.net/
